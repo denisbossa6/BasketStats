@@ -1,0 +1,16 @@
+node_modules
+dist
+*.local
+.vite
+.DS_Store
+
+# Variables de entorno y credenciales (nunca subir)
+.env
+.env.*
+*.pem
+*.key
+
+# Configuración local del editor / asistente
+.claude/
+.vscode/
+*.log
