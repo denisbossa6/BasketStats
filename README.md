@@ -2,6 +2,8 @@
 
 Aplicación web para registrar partidos de básquetbol y analizar el rendimiento individual de un jugador a lo largo de la temporada: promedios automáticos, récords, rachas y gráficos de evolución.
 
+**🔗 Demo en vivo: [basketstats-ten.vercel.app](https://basketstats-ten.vercel.app)**
+
 ## Funcionalidades
 
 - **Panel principal**: promedios de puntos, rebotes y asistencias con tendencia de los últimos 5 partidos, récord V-D, forma reciente, racha actual, porcentajes de tiro, últimos partidos y récords de la temporada.
